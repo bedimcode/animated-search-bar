@@ -1,0 +1,8 @@
+========== SEARCH ==========
+.search__input - placeholder
+Type something...
+
+.search - action
+https://www.google.com/search
+
+// We add the show-search class, so that the search bar expands
